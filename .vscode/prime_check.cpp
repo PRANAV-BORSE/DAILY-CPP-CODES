@@ -30,6 +30,5 @@ int main() {
     } else {
         cout << num << " is NOT a Prime number." << endl;
     }
-
     return 0;
 }
