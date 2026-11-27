@@ -1,8 +1,0 @@
-# Ignore compiled Windows executables
-*.exe
-
-# Ignore object/debug files if generated
-*.o
-*.obj
-*.out
-*.dSYM/
